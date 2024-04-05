@@ -332,13 +332,13 @@ button{
 /* specialites -Slider */
 
 .item-container{
-  /* border: solid navy; */
+  border: solid navy;
   display: grid;
   grid-template-columns: auto auto auto auto auto auto; 
   grid-gap:10px;
   overflow-x: scroll;
   z-index: 100;
-  width: 88%;
+  width: 85%;
   margin-left: 12vh;
   margin-top: 20px;
   height: 37vh;
