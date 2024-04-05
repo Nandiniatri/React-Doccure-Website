@@ -340,7 +340,7 @@ button{
   z-index: 100;
   width: 85%;
   margin-left: 12vh;
-  margin-top: 20px;
+  margin-top: 25px;
   height: 37vh;
 }
 .item-container::-webkit-scrollbar{
