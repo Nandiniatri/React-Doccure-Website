@@ -332,7 +332,7 @@ button{
 /* specialites -Slider */
 
 .item-container{
-  border: solid red;
+  /* border: solid red; */
   display: grid;
   grid-template-columns: auto auto auto auto auto auto; 
   grid-gap:10px;
