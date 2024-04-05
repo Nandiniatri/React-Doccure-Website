@@ -10,7 +10,7 @@ body{
   width: 100%;
   height: 100%;
 }
-body{
+body{ 
   /* font-family: "Poppins", sans-serif;
   font-size: 0.9375rem;
   color: #6B7280;
@@ -290,7 +290,7 @@ button{
 /* specialities */
 
 .specialities-container{
-  /* border: solid; */
+  border: solid;
   margin-top: 180px;
   background-color: #ffffff;
 }
@@ -338,7 +338,7 @@ button{
   grid-gap:10px;
   overflow-x: scroll;
   z-index: 100;
-  width: 1110px;
+  width: 88%;
   margin-left: 12vh;
   margin-top: 20px;
   height: 37vh;

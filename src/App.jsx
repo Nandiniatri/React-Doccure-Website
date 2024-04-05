@@ -14,7 +14,7 @@ function App() {
     <>
       <MainFileOfHeader />
       <MainFileOfLocation />
-      <MainFileOfSpecialities />
+      <MainFileOfSpecialities />  
       <MainFileOfBestDoctors />
       <MainFileOfPricingPlan />
       <MainFileOfLatestArticles />

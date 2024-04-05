@@ -15,9 +15,9 @@ export default function Specialities(){
     function next(){ 
         const scrollRight = scrollRef.current.scrollLeft;
         console.log(scrollRight);
-        scrollRef.current.scrollLeft = scrollRight + 100;
+        scrollRef.current.scrollLeft = scrollRight + 100; 
     }
-
+ 
     return (
         <div className="specialities-container">
             <div className="specialites-Div">
