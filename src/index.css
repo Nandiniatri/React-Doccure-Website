@@ -290,7 +290,7 @@ button{
 /* specialities */
 
 .specialities-container{
-  border: solid;
+  /* border: solid; */
   margin-top: 180px;
   background-color: #ffffff;
 }
@@ -465,23 +465,23 @@ button{
 
 /* bestDr-Slider */
 .bestDrSlider{
-  /* border: solid navy; */
+  border: solid navy;
   display: grid;
   grid-template-columns: auto auto auto auto auto; 
   grid-gap:10px;
   overflow-x: scroll;
   z-index: 100;
   margin-left: 5px;
-  width: 1175px;
+  width: 1185px;
   margin-top: 20px;
-  margin-left: 50px;
+  margin-left: 45px;
   padding: 10px;
 }
 .bestDrSlider::-webkit-scrollbar{
   display: none;
 }
 .sliderInner{
-  /* border: solid black; */
+  border: solid black;
   background-color: #fffefe;
   height: 62vh;
   width: 100%;

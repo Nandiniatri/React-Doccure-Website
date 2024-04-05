@@ -16,7 +16,7 @@ export default function BestDoctors(){
     function nextBtn(){
         const nextScroll = scrollRef.current.scrollLeft;
         console.log(nextScroll);
-        scrollRef.current.scrollLeft = nextScroll + 100;
+        scrollRef.current.scrollLeft = nextScroll + 100; 
     }
 
     return (
