@@ -347,11 +347,11 @@ button{
   display: none;
 }
 .items{
-  /* border: solid #0E82FD; */
+  border: solid #0E82FD;
   background: #ffffff;
-  border: 1px solid #E6E6E6;
+  /* border: 1px solid #E6E6E6; */
   border-radius: 8px;
-  height: 196px;
+  height: 200px;
   margin: 15px 0 0 10px;
   padding: 30px;
   cursor: pointer;
