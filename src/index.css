@@ -472,9 +472,9 @@ button{
   overflow-x: scroll;
   z-index: 100;
   margin-left: 5px;
-  width: 1160px;
+  width: 1157px;
   margin-top: 20px;
-  margin-left: 45px;
+  margin-left: 50px;
   padding: 10px;
 }
 .bestDrSlider::-webkit-scrollbar{
