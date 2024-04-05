@@ -332,13 +332,13 @@ button{
 /* specialites -Slider */
 
 .item-container{
-  /* border: solid red; */
+  border: solid red;
   display: grid;
   grid-template-columns: auto auto auto auto auto auto; 
   grid-gap:10px;
   overflow-x: scroll;
   z-index: 100;
-  width: 85%;
+  width: 80%;
   margin-left: 16vh;
   margin-top: 30px;
   height: 37vh;
@@ -364,7 +364,6 @@ button{
   /* border: solid saddlebrown; */
   margin-left: 83px;
   width: 50%;
-  text-align: center;
 }
 .items:hover{
   border: solid #0E82FD 1px;
