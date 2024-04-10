@@ -465,7 +465,7 @@ button{
 
 /* bestDr-Slider */
 .bestDrSlider{
-  border: solid navy;
+  /* border: solid navy; */
   display: grid;
   grid-template-columns: auto auto auto auto auto; 
   grid-gap:10px;
@@ -481,7 +481,7 @@ button{
   display: none;
 }
 .sliderInner{
-  border: solid black;
+  /* border: solid black; */
   background-color: #fffefe;
   height: 62vh;
   width: 100%;
